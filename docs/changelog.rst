@@ -3,6 +3,19 @@
 ###########
 
 ********************
+ 3.25.0 (2026-03-01)
+********************
+
+- ✨ feat(async): add AsyncReadWriteLock :pr:`506`
+- Standardize .github files to .yaml suffix
+- build(deps): bump actions/download-artifact from 7 to 8 :pr:`503` - by :user:`dependabot[bot]`
+- build(deps): bump actions/upload-artifact from 6 to 7 :pr:`502` - by :user:`dependabot[bot]`
+- Move SECURITY.md to .github/SECURITY.md
+- Add security policy
+- Add permissions to check workflow :pr:`500`
+- [pre-commit.ci] pre-commit autoupdate :pr:`499` - by :user:`pre-commit-ci[bot]`
+
+********************
  3.24.3 (2026-02-19)
 ********************
 
